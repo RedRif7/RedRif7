@@ -23,8 +23,8 @@
 - **PHP, Laravel Framework and AJAX.**
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/kristaps-fr%C4%ABdbergs/)
-- [Email](kristaps.fridbergs@gmail.com)
+- LinkedIn- https://www.linkedin.com/in/kristaps-fr%C4%ABdbergs/)
+- Email- kristaps.fridbergs@gmail.com
 
 ## ⚡ Fun Facts
 - I'm an avid **3D modeling and printing** enthusiast, constantly exploring new designs.
